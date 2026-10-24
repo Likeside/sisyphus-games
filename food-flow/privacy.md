@@ -1,5 +1,3 @@
-подключении Lion обнови анкету и одну строку в политике.
-
 # Privacy Policy — Food Flow: Pixel Puzzle
 
 **Last updated:** October 24, 2026
