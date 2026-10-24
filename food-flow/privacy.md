@@ -52,6 +52,7 @@ settings (on most Android devices: **Settings → Google → Ads** or **Settings
 Once you delete it, apps receive no advertising ID at all.
 
 ## Legal basis (EEA, UK)
+Where the GDPR applies, we process analytics data on the basis of our legitimate interest in
 operating and improving the Game, or on your consent where consent is required by law. Where we
 rely on consent, you can withdraw it at any time.
 
